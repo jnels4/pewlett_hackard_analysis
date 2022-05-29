@@ -1,5 +1,7 @@
 -- Creating Tables for PH-EmployeeDB
-
+--DROP TABLE dept_emp;
+--DROP TABLE dept_manager;
+--DROP TABLE titles;
 CREATE TABLE departments (
 	dept_no VARCHAR(4) NOT NULL,
 	dept_name VARCHAR(40) NOT NULL,
@@ -51,9 +53,9 @@ CREATE TABLE titles (
 	title VARCHAR(40) NOT NULL,
 	from_date DATE NOT NULL,
 	to_date DATE NOT NULL,
-	FOREIGN KEY (emp_no) REFERENCES employees(emp_no),
-	PRIMARY KEY (emp_no, title)
-);
+	FOREIGN KEY (emp_no) REFERENCES employees(emp_no)
+);	
+--PRIMARY KEY (emp_no)
 
 -- Check table construction
 SELECT * FROM departments;
