@@ -29,6 +29,9 @@ If all of the potential retirees all retire at the same time, there will not be 
 There are a number of suggestions to bridge this gap:
 
 #1. Identify key potential retirees see if they would stay on in an advisory/consultant role as a mentor for a specific title/department. This would be an as-needed bases for compensation/retirement benefits.
+
 #2. Survey the potential retirees for when they may be planning on retiring, structure the hiring process around this survey and projection of mass retirement. 
+
 #3. Cascade hiring with the wave of retirements for training/mentorship as the retirees begin to leave the PH workforce. 
+
 #4. Increase benefits for employees to stay on a bit longer so that the retirements happen in waves rather than the "silver tsunami" that was feared.
